@@ -1,6 +1,8 @@
 # Fortnite-8.51
-Fortnite 8.51 Source. (Add your own driver, Fix errors, Add offsets.)
+Fortnite Chapter 1: 8.51 Source:
 
-( bxtshit#3095 )
+Add R/W driver, preferably IOCTL due to this source being EXTREMELY unoptimized.
+Replace offsets, find them yourself.
+Fix any possible errors.
 
-
+Credits: Android/Bxtshit
