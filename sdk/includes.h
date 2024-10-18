@@ -1,0 +1,21 @@
+#include <Windows.h>
+#include <iostream>
+#include <vector>
+#include <math.h>
+#include <chrono>
+#include <thread>
+#include <d3d9.h>
+#include <TlHelp32.h>
+#include <xmmintrin.h>
+#include <immintrin.h>
+
+#include "../direct2d/custom-items.h"
+#include "../drivers/zenith_ctx.hpp"
+#include "../sdk/hexarrays_defs.h"
+#include "../sdk/maths.h"
+#include "../sdk/variables.h"
+#include "../game/offsets.h"
+#include "../game/functions.h"
+#include "../game/cache.h"
+#include "../game/actorloop.h"
+#include "../direct2d/render.h"
